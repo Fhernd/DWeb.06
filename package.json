@@ -1,0 +1,25 @@
+{
+  "name": "buscadorpropiedades",
+  "version": "1.0.0",
+  "description": "Buscador de propiedades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fhernd/DWeb.06.git"
+  },
+  "keywords": [
+    "buscador"
+  ],
+  "author": "1nfZ3r0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fhernd/DWeb.06/issues"
+  },
+  "homepage": "https://github.com/Fhernd/DWeb.06#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
